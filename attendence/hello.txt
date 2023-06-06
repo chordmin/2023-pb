@@ -2,4 +2,4 @@ Hello world!
 My name is hyeonmin.
 My student number
 is 2022-17328.
-
+goodbye
